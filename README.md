@@ -1,5 +1,7 @@
 # UEFA-Champions-League
 
+![](UEFA_Champions_League_Dashboard.png)
+
 In my latest data analysis endeavor, I set out to explore the dynamic world of the UEFA Champions League. With a passion for both football and data-driven insights, I embarked on a journey to unlock the hidden stories behind this prestigious tournament. To do this, I harnessed the comprehensive 'Champions League era stats' dataset, which you can find **[here](https://www.kaggle.com/datasets/basharalkuwaiti/champions-league-era-stats).** This dataset covers statistics up to the group stage of the 2021/22 season, offering a treasure trove of information on club participation, player records, coaching legacies, and more.
 
 ​
